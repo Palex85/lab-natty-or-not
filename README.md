@@ -28,4 +28,11 @@ Utilizando o midjourney com prompet em inglês que segue abaixo desenvolvi a ima
 A Brazilian afrodescendente guy programmer and podcaster, light brown eyes, athletic physique, whit headphones and a microfone and a notebook   in a studio
 
 ## 🚀 Resultados
+<p align="center">
+  <img 
+    src=""
+    width="400"  
+  />
+</p>
+
 
