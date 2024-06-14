@@ -14,7 +14,7 @@ Olá pessoal, Paulo aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, 
 
    ### Template
 
-```markdown
+
 # Afrodescente Brazilian programmer ;)
 
 ## 📒 Descrição
@@ -27,12 +27,20 @@ Midjourney
 Utilizando o midjourney com prompet em inglês que segue abaixo desenvolvi a imagem:
 A Brazilian afrodescendente guy programmer and podcaster, light brown eyes, athletic physique, whit headphones and a microfone and a notebook   in a studio
 
-## 🚀 Resultados
-<p align="center">
-  <img 
-    src=""
-    width="400"  
-  />
-</p>
 
+
+<img src="Assets/Brazilian programmer.png"/>
+
+
+ 🏃‍♂️🏃‍♂️🏃‍♂️💻 Me segue lá nas minhas redes sociais
+ <p>&nbsp&nbsp&nbspPaulo Nascimento<br>
+    &nbsp&nbsp&nbsp
+     <a href="https://github.com/Palex85">
+    GitHub</a>&nbsp;|&nbsp;
+    <a href="www.linkedin.com/in/paulo-nascimento-7147408b/
+">LinkedIn</a>
+&nbsp;|&nbsp;
+<a href="https://www.instagram.com/p.a_nasci/">
+    Instagram</a>
+&nbsp;|&nbsp;</p>
 
